@@ -13,5 +13,7 @@
     Guilherme Germano Silva
   </author>
 
-  
+  <icon src="imagens/icon.png"/>
+  <plugin name="cordova-plugin-splashscreen" />
+  <gap:splash src="splash.png"/>
 </widget>
