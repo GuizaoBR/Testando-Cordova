@@ -5,11 +5,14 @@
 
   <name>Só de Cenoura</name>
   <description>
-      Meno do restaurante Só de cenouta
+      Menu do restaurante Só de cenouta
   </description>
 
   <author href="https://guizaobr.github.io/MinhaPagina/"
     email="gui.germano.silva@gmail.com">
     Guilherme Germano Silva
   </author>
+
+  <icon src="icon.png"/>
+  <gap:splash src="splash.png"/>
 </widget>
